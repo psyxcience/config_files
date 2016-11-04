@@ -5,7 +5,8 @@ and more text
 
 ## Subheadline
 
-And some more text.
+- [ ] Some tasks
+- [ ] and another one
 
 ## Another Subheadline
 
